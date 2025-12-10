@@ -9,7 +9,5 @@ It helps users stay productive by organizing tasks, setting due dates, and categ
 - 📅 Set **due dates** for tasks  
 - 🏷️ Categorize tasks (e.g., Work, Personal, Study, etc.)    
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/AnunandhaC/todo-list.git
+## 🚀 Check it live: https://anunandhac.github.io/to-do-list/
+
